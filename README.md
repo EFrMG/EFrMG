@@ -7,3 +7,4 @@ My most commerciable skills include front-end and back-end development for web a
 My non-professional interests involve philosophy and music, although my love for reading permeates into how do I approach certain tasks such as when one needs to consult documentation related to programming.
 
 - Currently learning Python, from [freeCodeCamp](https://www.freecodecamp.org/)
+- Working on a Go + BubbleTea bindings manager for [Omarchy](https://github.com/basecamp/omarchy).
