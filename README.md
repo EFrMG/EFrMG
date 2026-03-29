@@ -1,4 +1,4 @@
-Software programmer and developer.
+### Full-Stack Software Engineer
 
 I have been a Linux system administrator for about 10 years, and coding with friend mentors and in some freelance projects for about 5, developing full web applications and interfaces.
 
