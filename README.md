@@ -6,7 +6,7 @@ My most commerciable skills include front-end and back-end development for the w
 
 The tools I regularly use include: version control systems (Git); React and Vue; Tailwind and SCSS; Docker; Kubernetes; Redis; HTML canvas.
 
-The main programming languages I am able to work with are: Bash; HTML; CSS; JavaScript; Lua; Python. Among other simpler ones such as JSON, which plainly lack functionality as to be mentioned.
+The main programming languages I am able to work with are: Bash; HTML; CSS; JavaScript; Lua; Python. Among simpler ones such as JSON, which plainly lack functionality as to be mentioned.
 
 I am also interested and profundizing in: C; C++; Go; Common Lisp.
 
