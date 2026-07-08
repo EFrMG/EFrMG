@@ -16,4 +16,4 @@ My non-professional interests involve philosophy and music, although my love for
 
 - I will begin with a Go + BubbleTea bindings manager for [Omarchy](https://github.com/basecamp/omarchy) once Hyprland moves on to Lua fully.
 - I am about to release a real estate web application that serves as a backend playground in the next few weeks.
-- I am working next on an web application for economic resilience in Argentina.
+- I am working next on a web application for economic resilience in Argentina.
