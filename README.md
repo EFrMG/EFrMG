@@ -14,7 +14,7 @@ I am also interested and profundizing in: [![C](https://img.shields.io/badge/C-%
 
 My non-professional interests involve philosophy and music, although my love for reading permeates into how do I approach certain tasks regarding technical documentation (I do write documentation, and put emphasis on it).
 
-- I will begin with a Go + BubbleTea bindings manager for [Omarchy](https://github.com/basecamp/omarchy) once Hyprland moves on to Lua fully.
+- I will begin with a Go + BubbleTea utility for managing VMs with `virsh`, starting it as just a shell front.
 - I am about to release a real estate web application that serves as a backend playground in the next few weeks.
 - I am working next on a web application for economic resilience in Argentina.
 - I am coursing the Front-End Development Libraries Certification on Free Code Camp.
