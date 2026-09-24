@@ -1,3 +1,5 @@
+# General presentation
+
 I have been coding with friend mentors and in some freelance projects for about 5 years, developing full web applications and interfaces. I am a Linux system administrator and am deeply interested in System Design and Architecture in Computer Science. I also like to learn about Cyber-security.
 
 I aspire to be a generalist, having great respect and admiration towards well-designed and future-proof systems.
@@ -14,7 +16,19 @@ I am also interested and profundizing in: [![C](https://img.shields.io/badge/C-%
 
 My non-professional interests involve philosophy and music, although my love for reading permeates into how do I approach certain tasks regarding technical documentation (I do write documentation, and put emphasis on it).
 
+## Current Projects
+
 - I will begin with a Go + BubbleTea utility for managing VMs with `virsh`, starting it as just a shell front.
 - I am working next on a web application for economic resilience in Argentina.
 - I am coursing the Front-End Development Libraries Certification on Free Code Camp.
 - I am working on some freelance audio (DSP) plugins with JUCE.
+
+## Donating
+
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-%230D1117.svg?style=flat-square&logo=kofi&logoColor=FF5E5B)](https://ko-fi.com/efrmg) [![Liberapay](https://img.shields.io/badge/Liberapay-%230D1117.svg?style=flat-square&logo=liberapay&logoColor=F6C915)](https://liberapay.com/EFrMG/) [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%230D1117.svg?style=flat-square&logo=buymeacoffee&logoColor=FFDD00)](https://www.buymeacoffee.com/efrmg)
+
+My love is to try and help other developers with blogs and tools while I take a step into the more "professional" industry of Software.
+
+Linux and Open Source has gotten me into it, so I will always be grateful and contribute as time and effort allows.
+
+If you think any of what I share is useful, do consider supporting me economically, no matter the amount! We could even have a Voice Chat about Developer topics freely, and I shall consider giving help whenever I can and find the topic aligned with the interests I have.
