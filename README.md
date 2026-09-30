@@ -16,16 +16,36 @@ I am also interested and profundizing in: [![C](https://img.shields.io/badge/C-%
 
 My non-professional interests involve philosophy and music, although my love for reading permeates into how do I approach certain tasks regarding technical documentation (I do write documentation, and put emphasis on it).
 
+## Live Websites
+
+<img src="favicons/portfolio.png" alt="E. Francis M. G. portfolio favicon" width="20" height="20" align="center"> **My Web Portfolio**: [LINK](https://francisco.is-a.dev/).<br><br>
+<img src="favicons/free-real-estate.svg" alt="Free Real Estate favicon" width="20" height="20" align="center"> **Free Real Estate**: [Public repository](https://github.com/EFrMG/free-real-estate) and [LINK](https://free-real-estate.macias-francisco-355237995.workers.dev/).<br><br>
+<img src="favicons/ep-sonido-iluminacion.webp" alt="EP Sonido e Iluminación favicon" width="20" height="20" align="center"> **EP Sonido e Iluminación**: [Public repository](https://github.com/EFrMG/ep-sonido-iluminacion) and [LINK](https://efrmg.github.io/ep-sonido-iluminacion/).<br><br>
+<img src="favicons/templating-guide.webp" alt="Templating Guide favicon" width="20" height="20" align="center"> **Templating Guide**: [Public repository](https://github.com/EFrMG/templating-guide) and [LINK](https://efrmg.github.io/templating-guide/).<br><br>
+<img src="favicons/windpacks.webp" alt="Windpacks favicon" width="20" height="20" align="center"> **Windpacks**: [Public repository](https://github.com/EFrMG/windpacks) and [LINK](https://efrmg.github.io/windpacks/).
+
 ## Current Projects
 
-- I will begin with a Go + BubbleTea utility for managing VMs with `virsh`, starting it as just a shell front.
-- I am working next on a web application for economic resilience in Argentina.
+- Go + BubbleTea utility for managing VMs with `virsh`, starting it as just a shell front.
+- Web application for economic analysis in Argentina. It will include a fully-featured dashboard and RSS news feed. This exercises plenty of API consumption.
 - I am coursing the Front-End Development Libraries Certification on Free Code Camp.
 - I am working on some freelance audio (DSP) plugins with JUCE.
 
 ## Donating
 
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-%230D1117.svg?style=flat-square&logo=kofi&logoColor=FF5E5B)](https://ko-fi.com/efrmg) [![Liberapay](https://img.shields.io/badge/Liberapay-%230D1117.svg?style=flat-square&logo=liberapay&logoColor=F6C915)](https://liberapay.com/EFrMG/) [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%230D1117.svg?style=flat-square&logo=buymeacoffee&logoColor=FFDD00)](https://www.buymeacoffee.com/efrmg)
+<table width="100%">
+  <tr>
+    <td width="33%" align="center">
+      <a href="https://ko-fi.com/efrmg"><img src="https://img.shields.io/badge/Ko--fi-%230D1117.svg?style=flat-square&amp;logo=kofi&amp;logoColor=FF5E5B" alt="Ko-fi"></a>
+    </td>
+    <td width="34%" align="center">
+      <a href="https://liberapay.com/EFrMG/"><img src="https://img.shields.io/badge/Liberapay-%230D1117.svg?style=flat-square&amp;logo=liberapay&amp;logoColor=F6C915" alt="Liberapay"></a>
+    </td>
+    <td width="33%" align="center">
+      <a href="https://www.buymeacoffee.com/efrmg"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%230D1117.svg?style=flat-square&amp;logo=buymeacoffee&amp;logoColor=FFDD00" alt="Buy Me a Coffee"></a>
+    </td>
+  </tr>
+</table>
 
 My love is to try and help other developers with blogs and tools while I take a step into the more "professional" industry of Software.
 
