@@ -19,7 +19,7 @@ My non-professional interests involve philosophy and music, although my love for
 ## Live Websites
 
 <img src="favicons/portfolio.png" alt="E. Francis M. G. portfolio favicon" width="20" height="20" align="center"> **My Web Portfolio**: [LINK](https://francisco.is-a.dev/).<br><br>
-<img src="favicons/free-real-estate.svg" alt="Free Real Estate favicon" width="20" height="20" align="center"> **Free Real Estate**: [Public repository](https://github.com/EFrMG/free-real-estate) and [LINK](https://free-real-estate.macias-francisco-355237995.workers.dev/) (currently jumping ship to Cloudflare).<br><br>
+<img src="favicons/free-real-estate.svg" alt="Free Real Estate favicon" width="20" height="20" align="center"> **Free Real Estate**: [Public repository](https://github.com/EFrMG/free-real-estate) and [LINK](https://free-real-estate.macias-francisco-355237995.workers.dev/).<br><br>
 <img src="favicons/ep-sonido-iluminacion.webp" alt="EP Sonido e Iluminación favicon" width="20" height="20" align="center"> **EP Sonido e Iluminación**: [Public repository](https://github.com/EFrMG/ep-sonido-iluminacion) and [LINK](https://efrmg.github.io/ep-sonido-iluminacion/).<br><br>
 <img src="favicons/templating-guide.webp" alt="Templating Guide favicon" width="20" height="20" align="center"> **Templating Guide**: [Public repository](https://github.com/EFrMG/templating-guide) and [LINK](https://efrmg.github.io/templating-guide/).<br><br>
 <img src="favicons/windpacks.webp" alt="Windpacks favicon" width="20" height="20" align="center"> **Windpacks**: [Public repository](https://github.com/EFrMG/windpacks) and [LINK](https://efrmg.github.io/windpacks/).
